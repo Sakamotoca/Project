@@ -1,19 +1,19 @@
 # Chris Project
 
-! [preview](./.github/preview.png)
+![preview](./.github/preview.png)
 
-> Trilha Explore (NLW)
+> Trilha Explorer (NLW)
 
 Meu primeiro projeto.
 
-[Clique aqui para acessar] (https://sakamotoca.github.io/Project/)
+[🔗Clique aqui para acessar](https://sakamotoca.github.io/Project/)
 
-## Tecnologias
+## 🔍Tecnologias
 
 - HTML
 - CSS
 - Git e Github
 
-## Contato
+## 📞Contato
 
 christopherbif@outlook.com
