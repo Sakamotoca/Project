@@ -106,12 +106,18 @@ section ul li:hover {
 }
 
 .games-list img{
-    width: 110px;
+    width: 160px;
 border-radius: 15px;
 }
 
 .channel-list img {
     width: 100px;
+    border-radius: 50%;
+    border: 1px solid #2a2634;
+}
+
+.social-list img {
+    width: 50px;
     border-radius: 50%;
     border: 1px solid #2a2634;
 }
