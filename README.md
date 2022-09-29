@@ -6,7 +6,7 @@
 
 Meu primeiro projeto.
 
-[🔗Clique aqui para acessar](https://sakamotoca.github.io/ProjectNLW/)
+[🔗Clique aqui para acessar](https://chrisbif.github.io/ProjectNLW/)
 
 ## 🔍Tecnologias
 
